@@ -49,27 +49,6 @@ This project uses a **three-part architecture**:
 
 ---
 
-## 📁 Repository Structure
-
-emotion-detection-system/
-│
-├── training/
-│ └── model_development.ipynb
-│
-├── inference/
-│ └── inference.py
-│
-├── models/
-│ ├── face_emotion_model.pth
-│ ├── voice_emotion_model.pth
-│ └── combined_emotion_model.pth
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
-
-
----
 
 ## 🧪 Model Training
 

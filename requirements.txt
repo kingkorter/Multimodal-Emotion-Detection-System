@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+transformers
+opencv-python
+numpy
+pandas
+Pillow
+sounddevice
+scikit-learn
+tqdm
